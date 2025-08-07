@@ -1,5 +1,5 @@
 
-# RecipeCLI 🍲
+# Recipe Manager 🍲
 
 **Recipe Manager** is a simple C# console application that allows users to create, view, search, and delete cooking recipes using a lightweight text-based storage system.
 
